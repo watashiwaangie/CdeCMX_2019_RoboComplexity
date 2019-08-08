@@ -1,6 +1,9 @@
 # MER3: RoboComplexity: Fisiología desde la complejidad y robótica.
 
+# Resumen
 En la semana de CdeCMX llevada acabo en la Facultad de Ingeniería, Mérida, Yucatán se realizó un simulador de corazón para el análisis de  este como un sistema complejo.
+
+# Introducción
 
 ## Sistemas
 
@@ -33,6 +36,12 @@ Al analizar los sistemas se toman en cuenta los siguientes indicadores:
 ## Corazón
 El corazón es una bomba de perfusión que tiene como principal función realizar contracciones para transportar oxígeno, CO2 y nutrientes al cuerpo. Posee células cardiacas que son especializadas para descargar, y transmitir energía eléctrica que provoca las contracciones musculares (latidos). 
 Se considera un sistema complejo ya que se adapta y evoluciona de manera autoorganizada, no se puede predecir y siempre está en un punto de equilibrio entre aleatoriedad y determinismo, es decir, criticalidad. 
+
+# Objetivos
+
+- Diseñar y construir un simulador cardíaco utilizando robótica suave.
+- Visualizar con un simulador cómo cambia el comportamiento del corazón después de realizar distintas actividades como meditar, correr o asustarse.
+- Analizar con Python y R desde el paradigma de sistemas complejos cómo cambia la dinámica de las señales cardíacas.
 
 
 
