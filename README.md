@@ -21,8 +21,11 @@ Se caracterizan por ser no lineales, no predecibles, ser adaptativos, evolutivos
 Los sistemas complejos se encuentran entre la zona de aleatoriedad y la zona determinista. 
 
 Al analizar los sistemas se toman en cuenta los siguientes indicadores:
-- DFA (Detrended Fluctuation Analysis): Indica el grado de fractalidad de una señal
-- Entropía: Indica cuánta información se tiene respecto a un sistema, mientras mayor información se tenga, menor será la entropía.
+**DFA (Detrended Fluctuation Analysis):** Indica el grado de fractalidad de una señal de acuerdo a lo siguiente:
+- Si x = 0.1 el sistema es aleatorio
+- Si x = 1 el sistema es complejo
+- Si x = 2 el sistema es determinista
+**Entropía:** Indica cuánta información se tiene respecto de un sistema, mientras mayor información se tenga, menor será la entropía.
 
 
 
