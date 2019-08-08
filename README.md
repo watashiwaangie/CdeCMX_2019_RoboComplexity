@@ -20,7 +20,9 @@ Se caracterizan por ser no lineales, no predecibles, ser adaptativos, evolutivos
 
 Los sistemas complejos se encuentran entre la zona de aleatoriedad y la zona determinista. 
 
-Para medir el nivel de complejidad de un sistema se utilizan los siguientes indicadores:
+Al analizar los sistemas se toman en cuenta los siguientes indicadores:
+- DFA (Detrended Fluctuation Analysis): Indica el grado de fractalidad de una señal
+- Entropía: Indica cuánta información se tiene respecto a un sistema, mientras mayor información se tenga, menor será la entropía.
 
 
 
