@@ -12,14 +12,17 @@ clases de física para encontrar sus ecuaciones de movimiento haciendo uso de la
 ###### Complicados
 
 Por lo general son un conjunto de sistemas simples interactuando entre sí, por lo tanto son lineales y su comportamiento de igual
-forma es predecible. Un ejemplo de un sistema complicado es un sistema de osciladores acplados. 
+forma es predecible. Un ejemplo de un sistema complicado es un avión, es grande y se aplican muchos principios y leyes físicas tanto para su construcción como para su funcionamiento, sin embargo, dedicando el tiempo adecuado a su estudio, hasta usted podría construir uno desde cero.
 
-###### Complicados
+###### Complejos
 
-Se caracterizan por ser no lineales, ser adaptativos, evolutivos y de propiedades emergentes, es decir, propiedades que surgen
-cuando los sistemas constituyen colectivos y que no presentaban cuando sus elementos estaban aislados. Un ejemplo de un sistema complejo es el corazón. 
+Se caracterizan por ser no lineales, no predecibles, ser adaptativos, evolutivos y de propiedades emergentes, es decir, propiedades que son propios del conjunto de elementos que conforman el sistema y que al aislar esos elementos no se tienen. 
 
 Los sistemas complejos se encuentran entre la zona de aleatoriedad y la zona determinista. 
+
+Para medir el nivel de complejidad de un sistema se utilizan los siguientes indicadores:
+
+
 
 
 
