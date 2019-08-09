@@ -26,6 +26,7 @@ Se caracterizan por ser no lineales, no predecibles, ser adaptativos, evolutivos
 Los sistemas complejos se encuentran entre la zona de aleatoriedad y la zona determinista. 
 
 Al analizar los sistemas se toman en cuenta los siguientes indicadores:
+
 **DFA (Detrended Fluctuation Analysis):** Indica el grado de fractalidad de una señal de acuerdo a lo siguiente:
 - Si x = 0.1 el sistema es aleatorio
 - Si x = 1 el sistema es complejo
@@ -34,6 +35,7 @@ Al analizar los sistemas se toman en cuenta los siguientes indicadores:
 **Entropía:** Indica cuánta información se tiene respecto de un sistema, mientras mayor información se tenga, menor será la entropía.
 
 ## Corazón
+
 El corazón es una bomba de perfusión que tiene como principal función realizar contracciones para transportar oxígeno, CO2 y nutrientes al cuerpo. Posee células cardiacas que son especializadas para descargar, y transmitir energía eléctrica que provoca las contracciones musculares (latidos). 
 Se considera un sistema complejo ya que se adapta y evoluciona de manera autoorganizada, no se puede predecir y siempre está en un punto de equilibrio entre aleatoriedad y determinismo, es decir, criticalidad. 
 
