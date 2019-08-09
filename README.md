@@ -9,6 +9,8 @@ En la semana de CdeCMX llevada acabo en la Facultad de Ingeniería, Mérida, Yuc
 - Visualizar con un simulador cómo cambia el comportamiento del corazón después de realizar distintas actividades como meditar, correr o asustarse.
 - Analizar con Python y R desde el paradigma de sistemas complejos cómo cambia la dinámica de las señales cardíacas.
 
+# Hipótesis
+
 # Introducción
 
 ## Sistemas
@@ -48,6 +50,20 @@ Indica cuánta información se tiene respecto de un sistema, mientras mayor info
 
 El corazón es una bomba de perfusión que tiene como principal función realizar contracciones para transportar oxígeno, CO2 y nutrientes al cuerpo. Posee células cardiacas que son especializadas para descargar, y transmitir energía eléctrica que provoca las contracciones musculares (latidos). 
 Se considera un sistema complejo ya que se adapta y evoluciona de manera autoorganizada, no se puede predecir y siempre está en un punto de equilibrio entre aleatoriedad y determinismo, es decir, criticalidad. 
+
+# Materiales
+
+- Arduino UNO
+- Cinchos de plástico
+- Globos
+- Sensor de pulso
+
+# Desarrollo
+
+
+# Conclusión
+
+# Referencias
 
 
 
