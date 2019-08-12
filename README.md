@@ -59,7 +59,7 @@ Se considera un sistema complejo ya que se adapta y evoluciona de manera autoorg
 - Sensor de pulso
 
 # Desarrollo
-https://raw.githubusercontent.com/watashiwaangie/CdeCMX_2019_RoboComplexity/rama/master/FLUJOTRABAJO.png
+https://raw.githubusercontent.com/watashiwaangie/CdeCMX_2019_RoboComplexity/master/Images/FLUJOTRABAJO.png
 
 # Conclusión
 
