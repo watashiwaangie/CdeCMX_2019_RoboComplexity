@@ -61,6 +61,10 @@ Indica cuánta información se tiene respecto de un sistema, mientras mayor info
 El corazón es una bomba de perfusión que tiene como principal función realizar contracciones para transportar oxígeno, CO2 y nutrientes al cuerpo. Posee células cardiacas que son especializadas para descargar, y transmitir energía eléctrica que provoca las contracciones musculares (latidos). 
 Se considera un sistema complejo ya que se adapta y evoluciona de manera autoorganizada, no se puede predecir y siempre está en un punto de equilibrio entre aleatoriedad y determinismo, es decir, criticalidad. 
 
+## Robótica suave
+
+Parte de la robótica que sustituye el tipo de materal típico (metales), por materiales más elásticos, sensibles, moldeables, con la finalidad de replicar, por ejemplo, órganos humanos. 
+
 # Materiales
 
 Experiento 1: Análisis de las señales de pulso.
@@ -86,6 +90,21 @@ Experimento 3: Simulador del corazón.
 
 ![Se presenta el flujo de trabajo.]
 (https://raw.githubusercontent.com/watashiwaangie/CdeCMX_2019_RoboComplexity/master/Images/FLUJOTRABAJO.png)
+
+Experimento 1: Análisis de las señles de pulso.
+
+Para este primer experimento, se trabajó con la placa Arduino UNO y con un sensor de pulso. 
+Primeramente se realizó la configuración necesaria de la placa y se conectó el sensor en el que una persona puso su dedo, se registró el pulso mientras esta se encontraba en un estado normal, sin estímulo alguno.
+Posteriormente se alteró el estado de la persona poniéndole música y variando los géneros de esta, se le puso el tráiler de su película favorita y se le invitó a realizar una serie de puntillas.
+El pulso sufrió alteraciones que son visibles en las gráficas que se realizaron para cada estímulo.
+
+Experimento 2: Análisis de las señales de movimiento.
+
+Una persona usó tenis y caminó y corrió por lapsos mientras se registraba su pulso con un sensor de movimiento instalado en un celular.
+La misma persona realizó las mismas actividades, pero ahora usando tacones.
+
+Experimento 3: 
+
 
 # Conclusión
 
