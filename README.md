@@ -11,6 +11,16 @@ En la semana de CdeCMX llevada acabo en la Facultad de Ingeniería, Mérida, Yuc
 
 # Hipótesis
 
+Complejidad:
+
+- Un sistema será complejo si el DFA arroja un valor alrededor a 1.
+- Si el valor del DFA es igual a 0.5, el sistema será aleatorio.
+- Si el valor del DFA es igual a 2, el sistema es determinista.
+
+Entropía:
+
+A mayor información, menor entropía y viceversa.
+
 # Introducción
 
 ## Sistemas
