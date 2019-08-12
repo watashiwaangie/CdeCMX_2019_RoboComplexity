@@ -63,13 +63,29 @@ Se considera un sistema complejo ya que se adapta y evoluciona de manera autoorg
 
 # Materiales
 
+Experiento 1: Análisis de las señales de pulso.
+
 - Arduino UNO
-- Cinchos de plástico
-- Globos
 - Sensor de pulso
 
+Experimento 2: Análisis de las señales de movimiento.
+
+- Celular con la aplicación 
+- Tacones
+- Tennis
+
+Experimento 3: Simulador del corazón.
+
+- 1 metro de tubo de plástico de 1/8.
+- 1 metro de tubo de plástico de 1/4.
+- 25 globos
+- 50 cinchos de plástico
+
+
 # Desarrollo
-https://raw.githubusercontent.com/watashiwaangie/CdeCMX_2019_RoboComplexity/master/Images/FLUJOTRABAJO.png
+
+![Se presenta el flujo de trabajo.]
+(https://raw.githubusercontent.com/watashiwaangie/CdeCMX_2019_RoboComplexity/master/Images/FLUJOTRABAJO.png)
 
 # Conclusión
 
