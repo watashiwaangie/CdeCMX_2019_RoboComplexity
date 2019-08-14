@@ -84,6 +84,8 @@ Experimento 3: Simulador del corazón.
 - 1 metro de tubo de plástico de 1/4.
 - 25 globos
 - 50 cinchos de plástico
+- Tela: FHSO - RED 58" 200 D. Heat Sealable Coatd Oxford, color: red.
+- RED: 100 ft - 1/2 inch Flexo Pet expandable braided sleeving, black.
 
 
 # Desarrollo
@@ -118,3 +120,4 @@ Experimento 3:
 
 
 
+ 
